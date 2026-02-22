@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Tourist",
+  "description": "AI-powered photo tourism app that recognizes landmarks, fetches history, and generates narrated AR-style clips.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
